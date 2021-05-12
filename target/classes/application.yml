@@ -1,0 +1,6 @@
+app-config:
+  capacity: 3843
+  count: 64
+  shortenUrlPrefix: "https://applau.se/"
+  possibleCharacter: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+  possibleCharacterCount: 62
