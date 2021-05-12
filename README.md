@@ -7,7 +7,7 @@ API: http://localhost:8080/api/url
 
 Json data:
 {
-	"urlValue":"http://google111.com"
+	"urlValue":"http://google.com"
 }
 
 # Get Url from shorten url
